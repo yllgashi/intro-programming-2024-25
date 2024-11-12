@@ -41,5 +41,14 @@ public class Variables {
         System.out.println(myDouble); // 3.17
         System.out.println(myChar); // B
         System.out.println(myBoolean); // false
+
+
+
+
+        // example
+        int myAge = 50;
+        System.out.println(myAge);
+        myAge = 51;
+        System.out.println(myAge);
     }
 }

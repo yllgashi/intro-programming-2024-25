@@ -8,5 +8,9 @@ public class ConstantsExample {
 
         // final double PI = 3.14;
         // PI = 5.23; // compiler doesn't allow us
+
+
+        final double PI = 3.14;
+        System.out.println(PI);
     }
 }

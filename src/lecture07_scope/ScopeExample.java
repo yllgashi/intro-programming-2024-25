@@ -11,7 +11,6 @@ public class ScopeExample {
         System.out.println(variableInsideMain);
 
 
-
         // example 2
         {
             int variableInsideInnerScope = 50;
@@ -19,7 +18,6 @@ public class ScopeExample {
             System.out.println(variableInsideInnerScope);
         }
         // variableInsideInnerScope = 80; => We cannot access there after scope in which variable is created has ended
-
 
 
         // example 3

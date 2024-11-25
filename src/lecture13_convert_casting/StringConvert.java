@@ -10,6 +10,6 @@ public class StringConvert {
 
 
     // convert from other data types to String
-    String e = String.valueOf(10);
-    String h = String.valueOf(3.14);
+    String e = String.valueOf(10); // "10"
+    String h = String.valueOf(3.14); // "3.14"
 }

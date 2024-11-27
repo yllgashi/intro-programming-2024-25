@@ -1,4 +1,4 @@
-package lecture17_operators;
+package lecture16_exercise;
 
 public class ExchangeVariables {
     public static void main(String[] args) {

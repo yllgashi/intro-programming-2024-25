@@ -17,7 +17,7 @@ public class FloatingPointTypesCompare {
         // THE BEST WAY: WE ARE TOLERATING NUMBERS AFTER THIRD FLOATING-POINT NUMBER...
         double tolerance = 0.01;
 
-        if (Math.abs(numOne - numTwo) < tolerance) {
+        if (Math.abs(numOne - numTwo) <= tolerance) {
             System.out.println("Number one is equal with number two (with tolerance after third number)");
         } else {
             System.out.println("Number one is NOT equal with number two");

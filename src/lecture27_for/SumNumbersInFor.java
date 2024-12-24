@@ -11,5 +11,8 @@ public class SumNumbersInFor {
         }
 
         System.out.println("Total sum is: " + sum);
+
+        // equals with:
+        System.out.println("Total sum is: " + (0 + 1 + 2 + 3 + 4 + 5));
     }
 }

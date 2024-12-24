@@ -1,5 +1,6 @@
 package lecture26_string_methods_exercises;
 
+import java.util.Locale;
 import java.util.Scanner;
 
 public class StringExerciseFourth {
@@ -39,3 +40,6 @@ public class StringExerciseFourth {
         System.out.println("Replaced text is: " + replacedTextInLowerCase);
     }
 }
+
+
+
